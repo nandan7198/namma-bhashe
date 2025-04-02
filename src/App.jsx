@@ -30,7 +30,7 @@ const App = () => {
       {/* Header */}
       <div className="flex justify-center bg-slate-800 p-4 text-2xl font-bold">
         <img src={logo} className="w-10 h-auto" />
-        <p className="pl-4">ನಮ್ಮ ಭಾಷೆ</p>
+        <h1 className="pl-4">ನಮ್ಮ ಭಾಷೆ</h1>
       </div>
 
       {/* Main Content */}
