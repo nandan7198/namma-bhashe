@@ -80,7 +80,7 @@ const App = () => {
             <h3 className="font-semibold text-yellow-300">
               🟢 Print & Variables
             </h3>
-            <pre className="text-gray-300">
+            <pre className="text-gray-300 text-xs sm:text-md md:text-lg lg:text-xl">
               hi maga
               <br />
               maga idu x = 10;
@@ -96,7 +96,7 @@ const App = () => {
             <h3 className="font-semibold text-yellow-300">
               🔵 If-Else Condition
             </h3>
-            <pre className="text-gray-300">
+            <pre className="text-gray-300 text-xs sm:text-md md:text-lg lg:text-xl">
               hi maga
               <br />
               maga idu x = 10;
@@ -116,7 +116,7 @@ const App = () => {
           {/* Example 3 - Loop */}
           <div className="p-3 bg-gray-700 rounded">
             <h3 className="font-semibold text-yellow-300">🟣 Loops</h3>
-            <pre className="text-gray-300">
+            <pre className="text-gray-300 text-xs sm:text-md md:text-lg lg:text-xl">
               hi maga
               <br />
               maga idu x = 5;
