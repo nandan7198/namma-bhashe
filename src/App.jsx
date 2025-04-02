@@ -29,12 +29,12 @@ const App = () => {
     <div className="flex flex-col min-h-screen bg-gradient-to-b from-gray-900 to-gray-600 bg-gradient-to-r text-white ">
       {/* Header */}
       <div className="flex justify-center bg-slate-800 p-4 text-2xl font-bold">
-        <img src={logo} className="w-10 h-auto" />
+        <img src={logo} alt="Namma Bhashe" className="w-10 h-auto" />
         <h1 className="pl-4">ನಮ್ಮ ಭಾಷೆ</h1>
       </div>
 
       {/* Main Content */}
-      <main className="flex-1 p-6 max-w-3xl mx-auto">
+      <main className="flex-1 p-6 lg:max-w-3xl max-w-screen sm:w-full mx-auto">
         {/* Code Editor Section */}
         <div className="bg-gray-800 p-4 rounded-lg shadow-md">
           <h2 className="text-lg font-semibold mb-2">
