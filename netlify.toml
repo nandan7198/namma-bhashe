@@ -36,7 +36,3 @@
 # Netlify Plugin: Generate Sitemap for SEO
 [[plugins]]
   package = "@netlify/plugin-sitemap"
-
-  [plugins.inputs]
-    buildDir = "dist"            # Folder containing your built files
-    siteUrl = "https://nammabhashe.netlify.app/"  
