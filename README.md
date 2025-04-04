@@ -106,7 +106,7 @@ The **interpreter.js** translates nammaBhashe syntax into JavaScript.
 
 ## 📜 License
 
-This project is open-source under the MIT License.
+This project is open-source under the Creative Commons Zero v1.0 Universal License.
 
 ---
 
